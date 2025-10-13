@@ -1413,7 +1413,7 @@ __metadata:
     klona: "npm:^2.0.6"
     localforage: "npm:^1.10.0"
     lodash-es: "npm:^4.17.21"
-    lucide-react: "npm:^0.515.0"
+    lucide-react: "npm:^0.545.0"
     mime-types: "npm:^3.0.1"
     multer: "npm:^2.0.2"
     nanoid: "npm:^5.1.5"
@@ -4965,12 +4965,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^0.515.0":
-  version: 0.515.0
-  resolution: "lucide-react@npm:0.515.0"
+"lucide-react@npm:^0.545.0":
+  version: 0.545.0
+  resolution: "lucide-react@npm:0.545.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 10c0/00485e09ab3d0bbb34797b1f368c269e8708522b6e2f46fd84dd5bd99741546487be9a65a260f274e8049b81cc37687566e26132f5752352c8d9bc8e5d0b3dea
+  checksum: 10c0/942622c8e5d113e6fc6f66407703dc06474cf1a36ee9998b9f562f2e64737ea098c0db5a4e5ba2a8eb14abecb9da05be4584e9400c4a192ba5b2781f21928c21
   languageName: node
   linkType: hard
 
