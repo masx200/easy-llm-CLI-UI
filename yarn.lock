@@ -1424,7 +1424,7 @@ __metadata:
     path-to-regexp: "npm:8.2.0"
     postcss: "npm:^8.4.32"
     react: "npm:19.1.1"
-    react-admin: "npm:^5.10.1"
+    react-admin: "npm:^5.12.2"
     react-dom: "npm:^18.2.0"
     react-dropzone: "npm:^14.2.3"
     react-markdown: "npm:^10.1.0"
@@ -6362,9 +6362,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ra-core@npm:^5.10.1":
-  version: 5.10.1
-  resolution: "ra-core@npm:5.10.1"
+"ra-core@npm:^5.12.2":
+  version: 5.12.2
+  resolution: "ra-core@npm:5.12.2"
   dependencies:
     "@tanstack/react-query": "npm:^5.83.0"
     date-fns: "npm:^3.6.0"
@@ -6381,32 +6381,32 @@ __metadata:
     react-hook-form: ^7.53.0
     react-router: ^6.28.1 || ^7.1.1
     react-router-dom: ^6.28.1 || ^7.1.1
-  checksum: 10c0/8ba25f32ee8588f2c370964d268fba516d6544bed0281fa4c8b9ce4b58278867dfa0ef8ed3d67efd5e3635c2ca25adbbf0388c2872dbcfa82074820647add6d3
+  checksum: 10c0/47c32690c7f869bf35dbed78088ce6355ca9ebf2fbef86333328e58b79093017eb8ab9ef09b00d9b3495a526772d7c3ebf2654816800f48e0708deb3d56cf0b2
   languageName: node
   linkType: hard
 
-"ra-i18n-polyglot@npm:^5.10.1":
-  version: 5.10.1
-  resolution: "ra-i18n-polyglot@npm:5.10.1"
+"ra-i18n-polyglot@npm:^5.12.2":
+  version: 5.12.2
+  resolution: "ra-i18n-polyglot@npm:5.12.2"
   dependencies:
     node-polyglot: "npm:^2.2.2"
-    ra-core: "npm:^5.10.1"
-  checksum: 10c0/62949dae020190c0bd7898f58371f090655f1b48c08166186419e4dcf082d0127f2cf4f3115e05bc01a0d8a2f1683e69c2b191babf2b77551f626bf8e69fddde
+    ra-core: "npm:^5.12.2"
+  checksum: 10c0/a6fff31198bf1c93626b279edbd49ca0ec5f8de18da7f55071bb1057abc1dadb26810b7a060804014aadfcd4a2514ab36544d3b193c98d1a43bc907abc7db4bd
   languageName: node
   linkType: hard
 
-"ra-language-english@npm:^5.10.1":
-  version: 5.10.1
-  resolution: "ra-language-english@npm:5.10.1"
+"ra-language-english@npm:^5.12.2":
+  version: 5.12.2
+  resolution: "ra-language-english@npm:5.12.2"
   dependencies:
-    ra-core: "npm:^5.10.1"
-  checksum: 10c0/55014eb3e594b2a483fafe8c3689a096aef8a1d3c33c896fc3653800f29a00fba585e0c0f6179150bc2637b9670a372299a8bacc8aa1f3fef6f8fc6b938bfc1e
+    ra-core: "npm:^5.12.2"
+  checksum: 10c0/60ab8f5bf41ca261ff62ace3d83a5a487a69b84fc481c26008a2c4894876f9a665740b9c771e3498a4446d4b3dfa861224d034d5037c84ec492ce653e578f4f6
   languageName: node
   linkType: hard
 
-"ra-ui-materialui@npm:^5.10.1":
-  version: 5.10.1
-  resolution: "ra-ui-materialui@npm:5.10.1"
+"ra-ui-materialui@npm:^5.12.2":
+  version: 5.12.2
+  resolution: "ra-ui-materialui@npm:5.12.2"
   dependencies:
     "@tanstack/react-query": "npm:^5.83.0"
     autosuggest-highlight: "npm:^3.1.1"
@@ -6435,7 +6435,7 @@ __metadata:
     react-is: ^18.0.0 || ^19.0.0
     react-router: ^6.28.1 || ^7.1.1
     react-router-dom: ^6.28.1 || ^7.1.1
-  checksum: 10c0/575d77f83fbd3f323ccbd7af65de4832c3bf25a2cc9f98b457ffeaf3fbcacfecfac28fdf210750d852399a110f781a1f695f45f39d0c7ef0d37e2e0e2a54e51f
+  checksum: 10c0/714f683b25d8719b2326afcad061f0d6e07479b8f422384fd18e3e9005922e450f5a25c0ceb034999760a8e87f3717ac482b11b8d00ecc64ab9a94f1e64b6ca6
   languageName: node
   linkType: hard
 
@@ -6472,26 +6472,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-admin@npm:^5.10.1":
-  version: 5.10.1
-  resolution: "react-admin@npm:5.10.1"
+"react-admin@npm:^5.12.2":
+  version: 5.12.2
+  resolution: "react-admin@npm:5.12.2"
   dependencies:
     "@emotion/react": "npm:^11.14.0"
     "@emotion/styled": "npm:^11.14.0"
     "@mui/icons-material": "npm:^5.16.12 || ^6.0.0 || ^7.0.0"
     "@mui/material": "npm:^5.16.12 || ^6.0.0 || ^7.0.0"
     "@tanstack/react-query": "npm:^5.83.0"
-    ra-core: "npm:^5.10.1"
-    ra-i18n-polyglot: "npm:^5.10.1"
-    ra-language-english: "npm:^5.10.1"
-    ra-ui-materialui: "npm:^5.10.1"
+    ra-core: "npm:^5.12.2"
+    ra-i18n-polyglot: "npm:^5.12.2"
+    ra-language-english: "npm:^5.12.2"
+    ra-ui-materialui: "npm:^5.12.2"
     react-hook-form: "npm:^7.53.0"
     react-router: "npm:^6.28.1 || ^7.1.1"
     react-router-dom: "npm:^6.28.1 || ^7.1.1"
   peerDependencies:
     react: ^18.0.0 || ^19.0.0
     react-dom: ^18.0.0 || ^19.0.0
-  checksum: 10c0/763f6fab48ffcd8986e7e33614b49f17f1ffd816457f4cae6a4b1e3cbb517407da17a79f346b9c893f8ab7f94f765333054685cd10c4cc4c4558a4cb053b7509
+  checksum: 10c0/8fc79ca5d00b25960caea27200baa4dc9b1bbbaa4b5144da821073be469c1c28f6ee56bdf7a538c4f53aea23f5dbf01f37d5a1855591a5a540574f2f9b93edf9
   languageName: node
   linkType: hard
 
